@@ -1,0 +1,21 @@
+title = "Pokémon Sun and Moon"
+description = "Pokémon Sun a Pokémon Moon sú rolujúce videohry vyvinuté spoločnosťou Game Freak a publikované spoločnosťou Nintendo pre Nintendo 3DS. Sú to prvá splátky v siedmej generácii pokémonských hier"
+needs_system_files = true
+needs_shared_font = false
+game_type = "vc"
+vc_system = "gg"
+
+[[releases]]
+title = "0004000000164800"
+region = "USA"
+release_date = "2017-05-31"
+
+[[testcases]]
+title = "0004000000164800"
+compatibility = "1"
+date = "2017-05-31"
+version = "HEAD-4857eb4"
+cpu = "Intel Core i7-4720HQ"
+gpu = "GeForce GTX 960M"
+os = "Windows 10 14393"
+author = "ikiks011"
